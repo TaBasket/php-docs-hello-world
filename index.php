@@ -1,3 +1,5 @@
 <?php
 
-echo "Hello World!" 20250612;
+echo "Hello World! 20250612";
+
+?>
